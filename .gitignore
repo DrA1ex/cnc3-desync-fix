@@ -1,0 +1,11 @@
+# never commit game files
+*.dat
+*.dat.*
+*.exe
+*.dll
+*.big
+*.bin
+*.res
+*.o
+__pycache__/
+.DS_Store
