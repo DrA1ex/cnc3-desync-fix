@@ -94,7 +94,7 @@ How to check all of this in a bottle: [docs/environment.md](docs/environment.md)
 
 * Verified: the math tests, run on an M-series Mac (Rosetta 2, CrossOver 26.3) and on an
   Intel Mac (Coffee Lake, CrossOver 26.3); the patched game starts and runs.
-* Pending: confirmation in long LAN games. Reports are welcome in Issues.
+* Verified: confirmation in long LAN games.
 
 ## Documentation
 
